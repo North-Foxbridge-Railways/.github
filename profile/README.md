@@ -11,7 +11,7 @@ This organisation is here to regroup all it's developers and allow them to work 
 1. [Who are we](#who-are-we)
 2. [What's the point ?](#our-goals-)
 3. [Contributing](#contributing)
-4. [where to find us](#socials)
+4. [Where to find us](#socials)
 
 ## Our goals 📈📌
 
