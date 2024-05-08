@@ -8,20 +8,22 @@ This organisation is here to regroup all it's developers and allow them to work 
 
 ## Summary
 
-1. [who are we](#who-are-we)
+1. [Who are we](#who-are-we)
 2. [What's the point ?](#our-goals-)
 3. [Contributing](#contributing)
 4. [where to find us](#socials)
 
 ## Our goals 📈📌
 
-This organisation is here to get all the NFR developers together and allow them to work on the different projects simultaneously.🔥\
-You may also find some public repo with open API endpoints for statistics and other cool things ! (so keep an eye out for that 👀)
+This organisation is here to get all the NFR developers together and allow them to work on the different projects simultaneously.\
+You may also find some public repo with open API endpoints for statistics and other cool things! (so keep an eye out for that 👀)
 
 ## Contributing
 
 > [!NOTE]
-> Keep in mind that NFR is not open source, contributing is welcomed on public repositories or by becoming a developer at NFR 😅
+> Keep in mind that the NFR Game itself is not open source, contributing is welcomed on public repositories or by becoming a developer at NFR 😅
+
+For more details on how to contribute, please read the README of the respective repository.
 
 ## Socials
 
